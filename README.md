@@ -9,8 +9,11 @@ This program establishes a client-server connection using Python's socket progra
 ## ✨ Features
 
 * **Client-Server Chatroom**: Interactive real-time messaging between the client and server.
+  
 * **Multiplayer ASCII Game**: In-chat Rock-Paper-Scissors with a best-of-three format and error handling
+  
 * **Socket-programming**: Utilizes Python's socket programming for seamless communication
+  
 * **Termination Command**: Upon client initiation, the server connection terminates.
 
 ## 🛠️ Setup and Installation
