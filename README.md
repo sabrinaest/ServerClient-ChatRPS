@@ -19,6 +19,25 @@ This program establishes a client-server connection using Python's socket progra
    * Python 3.10
     
 2. Clone the Repository:
+   
+```
+git clone https://github.com/sabrinaest/ServerClient-ChatRPS.git
+```
+
+3. Navigate to the Directory:
+
+```
+cd ServerClient-ChatRPS
+```
+
+4. Run the Application:
+   * Run the server program first
+     ```
+     python rpsServer.py
+     ```
+   * Run the client program in a separate terminal
+     ```
+     python rpsClient.py
 
 ## 📚 Documentation & References
 
