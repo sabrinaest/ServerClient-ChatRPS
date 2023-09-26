@@ -45,7 +45,7 @@ cd ServerClient-ChatRPS
 ## 📚 Documentation & References
 
 **Official Documentation**
-* Python Sockets: [Python's Socket Documentation](https://docs.python.org/3.4/howto/sockets.html) - An in-depth guide on how to use sockets in Python, focusing on the nuances of managing complete communication over sockets.
+* [Python's Socket Documentation](https://docs.python.org/3.4/howto/sockets.html): An in-depth guide on how to use sockets in Python, focusing on the nuances of managing complete communication over sockets.
 
 **Tutorials and Guides**
-* Real Python - [Socket Programming in Python](https://realpython.com/python-sockets/) - This comprehensive guide provides practical insights and examples on how to effectively work with Python sockets.
+* [Real Python Socket Programming](https://realpython.com/python-sockets/): This comprehensive guide provides practical insights and examples on how to effectively work with Python sockets.
